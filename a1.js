@@ -1,0 +1,1 @@
+console.log("all of them did not attend webinar")
